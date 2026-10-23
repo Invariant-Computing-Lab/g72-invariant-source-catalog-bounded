@@ -1,0 +1,8 @@
+{
+  "cli_status": "PASS",
+  "fixture_hash": "e5ee7117e54dc2bd02aaeb1b3c7d869215d2dff4e11d7a36606d60c0828e619c",
+  "rights": "PENDING",
+  "source_sha256": "239b7fc00c8f9aa72d024535897fe7bf3a96a5662e7b2c8d5ed08045f40c028d",
+  "target_code": "G72",
+  "unit_tests": "PASS"
+}
